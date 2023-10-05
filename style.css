@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    background: rgb(244, 15, 233);
+}
+div{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+img{
+  
+    width: 35rem;
+    height: 50rem;
+}
